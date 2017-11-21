@@ -1,0 +1,166 @@
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\WhomIsThisFace.exe.config
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\BouncyCastle.Crypto.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\DirectShowLib.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.GPU.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.UI.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.Util.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.PlatformServices.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Core.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Drive.v3.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.PlatformServices.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Sheets.v4.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\log4net.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\MahApps.Metro.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\MaterialDesignColors.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\MaterialDesignThemes.Wpf.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Newtonsoft.Json.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\System.Windows.Interactivity.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Zlib.Portable.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\ZedGraph.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\BouncyCastle.Crypto.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\DirectShowLib.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.GPU.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.UI.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.Util.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.PlatformServices.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Core.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Core.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Drive.v3.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Drive.v3.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.PlatformServices.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Sheets.v4.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Sheets.v4.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\log4net.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\MahApps.Metro.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\MahApps.Metro.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Newtonsoft.Json.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Zlib.Portable.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.csprojResolveAssemblyReference.cache
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\MainWindow.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\Resources\Icons.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\SelectClassWindow.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\Item\UCResultItem.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCNewSubject.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCSelectClass.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\Item\UCSubjectItem.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCHome.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCSparate.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCTest.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCResult.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCTrain.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\App.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\MainWindow.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\Resources\Icons.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\SelectClassWindow.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\Item\UCResultItem.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCNewSubject.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCSelectClass.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\Item\UCSubjectItem.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCHome.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCSparate.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCTest.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCResult.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCTrain.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\App.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace_MarkupCompile.cache
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.g.resources
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.Properties.Resources.resources
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.csproj.GenerateResource.Cache
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\WhomIsThisFace.exe.config
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.exe
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\WhomIsThisFace.exe
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\WhomIsThisFace.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\BouncyCastle.Crypto.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\DirectShowLib.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.GPU.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.UI.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.Util.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Core.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Drive.v3.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.PlatformServices.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Sheets.v4.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\log4net.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\MahApps.Metro.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\MaterialDesignColors.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\System.Windows.Interactivity.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Zlib.Portable.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\ZedGraph.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\BouncyCastle.Crypto.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\DirectShowLib.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.GPU.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.CV.UI.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Emgu.Util.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Auth.PlatformServices.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Core.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Core.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Drive.v3.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Drive.v3.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.PlatformServices.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.PlatformServices.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Sheets.v4.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Google.Apis.Sheets.v4.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\log4net.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\MahApps.Metro.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\MahApps.Metro.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Release\Zlib.Portable.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\MainWindow.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\Resources\Icons.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\SelectClassWindow.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\Item\UCResultItem.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCNewSubject.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCSelectClass.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\Item\UCSubjectItem.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCHome.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCSparate.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCTest.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCResult.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCTrain.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\App.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\MainWindow.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\Resources\Icons.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\SelectClassWindow.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\Item\UCResultItem.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCNewSubject.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCSelectClass.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\Item\UCSubjectItem.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCHome.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCSparate.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCTest.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCResult.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\UC\UCTrain.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\App.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace_MarkupCompile.cache
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.g.resources
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.Properties.Resources.resources
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Release\WhomIsThisFace.csproj.GenerateResource.Cache

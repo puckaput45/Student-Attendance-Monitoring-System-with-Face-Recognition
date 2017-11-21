@@ -1,0 +1,73 @@
+﻿<Controls:MetroWindow x:Class="WhomIsThisFace.SelectClassWindow"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="เลือกรายวิชา" Height="300" Width="300"
+        ShowMaxRestoreButton="False" ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen" ShowMinButton="False">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/Icons.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+
+
+    </Window.Resources>
+
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+
+            <Button x:Name="btnNewSubject" Click="btnNewSubject_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle Width="20"
+                           Height="20"
+                           Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_page_add}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                    <TextBlock Margin="4 0 0 0"
+                           VerticalAlignment="Center"
+                           Text="สร้างรายวิชาใหม่" />
+                </StackPanel>
+            </Button>
+            <Button x:Name="btnADDSubject" Click="btnADDSubject_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle Width="20"
+                           Height="20"
+                           Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_page_add}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                    <TextBlock Margin="4 0 0 0"
+                           VerticalAlignment="Center"
+                           Text="เพิ่มรายวิชา" />
+                </StackPanel>
+            </Button>
+            <Button x:Name="btnCancelSubject" Click="btnCancelSubject_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle Width="20"
+                           Height="20"
+                           Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_cancel}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                    <TextBlock Margin="4 0 0 0"
+                           VerticalAlignment="Center"
+                           Text="ยกเลิก" />
+                </StackPanel>
+            </Button>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="0,0,0,0">
+            <StackPanel x:Name="StackPanelMain">
+            </StackPanel>
+        </ScrollViewer>
+        
+    </Grid>
+</Controls:MetroWindow>

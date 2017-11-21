@@ -1,0 +1,94 @@
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\Debug\WhomIsThisFace.exe.config
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\Debug\WhomIsThisFace.exe
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\Debug\WhomIsThisFace.pdb
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\Debug\MahApps.Metro.dll
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\Debug\System.Windows.Interactivity.dll
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\Debug\MahApps.Metro.pdb
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\Debug\MahApps.Metro.xml
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\MainWindow.baml
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\MainWindow.g.cs
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\App.g.cs
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace_MarkupCompile.cache
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.g.resources
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.Properties.Resources.resources
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.exe
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.pdb
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\App.baml
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\Resources\Icons.baml
+c:\users\james\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\Resources\Icons.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\Debug\MaterialDesignColors.dll
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\SelectClassWindow.baml
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\SelectClassWindow.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\Item\UCSubjectItem.baml
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCHome.baml
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCSparate.baml
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCTest.baml
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCTestMethod.baml
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCTrain.baml
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\Item\UCSubjectItem.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCHome.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCSparate.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCTest.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCTestMethod.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCTrain.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCSelectClass.baml
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCSelectClass.g.cs
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCNewSubject.baml
+C:\Users\James\Documents\Visual Studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCNewSubject.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\WhomIsThisFace.exe.config
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\DirectShowLib.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\Emgu.CV.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\Emgu.CV.GPU.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\Emgu.CV.UI.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\Emgu.Util.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\MahApps.Metro.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\MaterialDesignColors.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\System.Windows.Interactivity.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\ZedGraph.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\DirectShowLib.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\Emgu.CV.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\Emgu.CV.GPU.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\Emgu.CV.UI.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\Emgu.Util.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\MahApps.Metro.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\Debug\MahApps.Metro.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.csprojResolveAssemblyReference.cache
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\MainWindow.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\Resources\Icons.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\SelectClassWindow.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\Item\UCResultItem.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCNewSubject.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCSelectClass.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\Item\UCSubjectItem.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCHome.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCSparate.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCTest.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCResult.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCTrain.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\App.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\MainWindow.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\Resources\Icons.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\SelectClassWindow.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\Item\UCResultItem.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCNewSubject.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCSelectClass.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\Item\UCSubjectItem.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCHome.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCSparate.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCTest.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCResult.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\UC\UCTrain.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\App.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace_MarkupCompile.cache
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.g.resources
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.Properties.Resources.resources
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\Debug\WhomIsThisFace.csproj.GenerateResource.Cache

@@ -1,0 +1,63 @@
+﻿<Controls:MetroWindow  x:Class="WhomIsThisFace.MainWindow"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WHOM IS THIS FACE" Height="350" Width="525"
+        ShowIconOnTitleBar="True" WindowStartupLocation="CenterScreen" WindowState="Maximized" >
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/Icons.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+        
+        
+        
+    </Window.Resources>
+
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button Content="change" x:Name="btnChange" Click="btnChange_Click"/>
+            <Button Click="btnSheet_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle Width="20"
+                           Height="20"
+                           Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_book_open_writing}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                    <TextBlock Margin="4 0 0 0" x:Name="tbSubjectID"
+                           VerticalAlignment="Center"
+                           Text="Classroom cupcakes" />
+                </StackPanel>
+            </Button>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+
+
+    <Grid Margin="0,0,0,0">
+
+        <DockPanel>
+            
+            <Menu x:Name="menuTop" DockPanel.Dock="Top" Background="{DynamicResource {x:Static SystemColors.HighlightTextBrushKey}}">
+
+                <MenuItem x:Name="miHome" Header="Home" Click="MenuItem_Click" Foreground="#DDFFFFFF" />
+                <MenuItem x:Name="miTrain"  Header="Train" Click="MenuItem_Click" Foreground="#DDFFFFFF" />
+                <MenuItem x:Name="miTest"  Header="Test" Click="MenuItem_Click" Foreground="#DDFFFFFF" />
+
+                <MenuItem x:Name="miResult" Header="Result" Click="MenuItem_Click" Foreground="#DDFFFFFF" />
+            </Menu>
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel x:Name="StackPanelMain"/>
+            </ScrollViewer>
+
+
+
+
+
+        </DockPanel>
+    </Grid>
+
+
+</Controls:MetroWindow>

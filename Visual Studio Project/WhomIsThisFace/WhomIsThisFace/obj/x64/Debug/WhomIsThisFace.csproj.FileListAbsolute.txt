@@ -1,0 +1,557 @@
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe.config
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.pdb
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.dll
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignColors.dll
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.pdb
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.xml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csprojResolveAssemblyReference.cache
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace_MarkupCompile.cache
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.g.resources
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.Properties.Resources.resources
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csproj.GenerateResource.Cache
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.exe
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.pdb
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.xml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.Util.xml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\ZedGraph.dll
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.baml
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.g.cs
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.dll
+C:\Users\James\documents\visual studio 2013\Projects\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.pdb
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe.config
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.exe
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.pdb
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.pdb
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.dll
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.dll
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignColors.dll
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\System.Windows.Interactivity.dll
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\ZedGraph.dll
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.pdb
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.xml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.GPU.xml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.UI.xml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.Util.xml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.pdb
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.xml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csprojResolveAssemblyReference.cache
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.baml
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.g.cs
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace_MarkupCompile.cache
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.g.resources
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.Properties.Resources.resources
+F:\RECOG\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csproj.GenerateResource.Cache
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe.config
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignColors.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\System.Windows.Interactivity.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\ZedGraph.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.GPU.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.Util.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csprojResolveAssemblyReference.cache
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.baml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.g.cs
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace_MarkupCompile.cache
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.g.resources
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.Properties.Resources.resources
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csproj.GenerateResource.Cache
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.dll
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.xml
+E:\ProjectJOB\Backup\25590511\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe.config
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignColors.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\System.Windows.Interactivity.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\ZedGraph.dll
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.GPU.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.Util.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.pdb
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.xml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csprojResolveAssemblyReference.cache
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.baml
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.g.cs
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace_MarkupCompile.cache
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.g.resources
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.Properties.Resources.resources
+E:\ProjectJOB\Backup\25590517\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csproj.GenerateResource.Cache
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe.config
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignColors.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\System.Windows.Interactivity.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\ZedGraph.dll
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.GPU.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.Util.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.pdb
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.xml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csprojResolveAssemblyReference.cache
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.baml
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.g.cs
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace_MarkupCompile.cache
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.g.resources
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.Properties.Resources.resources
+E:\ProjectJOB\Backup\25590706\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csproj.GenerateResource.Cache
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe.config
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Sheets.v4.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignColors.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\System.Windows.Interactivity.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\ZedGraph.dll
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.GPU.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.Util.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Sheets.v4.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Sheets.v4.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.pdb
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.xml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csprojResolveAssemblyReference.cache
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.baml
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.g.cs
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace_MarkupCompile.cache
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.g.resources
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.Properties.Resources.resources
+E:\ProjectJOB\Backup\25590610\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csproj.GenerateResource.Cache
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe.config
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csprojResolveAssemblyReference.cache
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.baml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.g.cs
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace_MarkupCompile.cache
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.g.resources
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.Properties.Resources.resources
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csproj.GenerateResource.Cache
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Sheets.v4.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignColors.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\System.Windows.Interactivity.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\ZedGraph.dll
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.GPU.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.UI.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.Util.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Sheets.v4.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Sheets.v4.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.pdb
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.xml
+E:\ProjectJOB\Backup\25590612\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe.config
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.exe
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.exe
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\WhomIsThisFace.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignColors.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\ZedGraph.dll
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\BouncyCastle.Crypto.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\DirectShowLib.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Emgu.Util.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Core.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Drive.v3.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.PlatformServices.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\log4net.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.pdb
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\MahApps.Metro.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\bin\x64\Debug\Zlib.Portable.xml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.baml
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\MainWindow.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\Resources\Icons.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\SelectClassWindow.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCResultItem.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCNewSubject.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSelectClass.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\Item\UCSubjectItem.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCHome.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCSparate.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTest.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCResult.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\UC\UCTrain.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\App.g.cs
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace_MarkupCompile.cache
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.g.resources
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.Properties.Resources.resources
+C:\Users\James\Desktop\CD\Visual Studio Project\WhomIsThisFace\WhomIsThisFace\obj\x64\Debug\WhomIsThisFace.csproj.GenerateResource.Cache

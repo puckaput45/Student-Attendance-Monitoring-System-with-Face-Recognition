@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="WhomIsThisFace.UC.UCHome"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Label x:Name="lbTest" Content="Gmail" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="18,8,0,0"/>
+        <Button x:Name="btnUploadTrainingImage"  Background="#FF3AB79F" BorderBrush="#FF3AB776" Margin="61,76,0,0" Content="Upload Training Image" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" Click="btnUploadTrainingImage_Click"/>
+        <Button x:Name="btnDownloadTrainingImage"  Background="#FF3AB79F" BorderBrush="#FF3AB776" Margin="61,113,0,0" Content="Download Training Image" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" Click="btnDownloadTrainingImage_Click"/>
+        <TextBox x:Name="tbGmail" Margin="61,10,0,0" TextWrapping="Wrap" Text="" HorizontalAlignment="Left" Width="204" Height="23" VerticalAlignment="Top"/>
+        <Button x:Name="btnLogin"  Background="#FF3AB79F" BorderBrush="#FF3AB776" Margin="61,39,0,0" Content="Login Drive" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" Click="btnLogin_Click" />
+        <Button x:Name="btnUploadSheet"  Background="#FF3AB79F" BorderBrush="#FF3AB776" Margin="61,150,0,0" Content="Upload Sheet" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" Click="btnUploadSheet_Click"/>
+        <Button x:Name="btnDownloadSheet"  Background="#FF3AB79F" BorderBrush="#FF3AB776" Margin="61,187,0,0" Content="Download Sheet" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" Click="btnDownloadSheet_Click"/>
+        <Button x:Name="btnLoginSheet"  Background="#FF3AB79F" BorderBrush="#FF3AB776" Margin="61,333,0,-65" Content="Login Sheet" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" Click="btnLoginSheet_Click"  />
+        <Label x:Name="lbGid" Content="Gid" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="27,305,0,-29"/>
+        <TextBox x:Name="tbGid" Margin="61,305,0,-28" TextWrapping="Wrap" Text="" HorizontalAlignment="Left" Width="204" Height="23" VerticalAlignment="Top" />
+        <Button x:Name="btnOpenSheet"  Background="#FF3AB79F" BorderBrush="#FF3AB776" Margin="61,268,0,0" Content="Open Sheet" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" Click="btnOpenSheet_Click"  />
+
+        <DockPanel Margin="351,26,-351,-26">
+
+            <Menu x:Name="menuTop" DockPanel.Dock="Top" Background="{DynamicResource {x:Static SystemColors.HighlightTextBrushKey}}">
+
+                <MenuItem x:Name="miGmail" Header="Gmail" Click="MenuItem_Click"  Foreground="#DDFFFFFF" />
+                <MenuItem x:Name="miSheet"  Header="Sheet" Click="MenuItem_Click" Foreground="#DDFFFFFF" />
+            </Menu>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" HorizontalAlignment="Left">
+                <StackPanel  x:Name="StackPanelMain"/>
+            </ScrollViewer>
+
+
+
+
+
+        </DockPanel>
+        <TextBox x:Name="tbGetCodeGoogleSite" HorizontalAlignment="Left" Height="23" Margin="61,407,0,-130" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" AcceptsReturn="True" Width="204"/>
+        <Button x:Name="btnCoppyToClipboard"  Background="#FF3AB79F" BorderBrush="#FF3AB776" Margin="61,435,0,-167" Content="Copy to clipboard" VerticalAlignment="Top" HorizontalAlignment="Left" Width="204" Click="btnCoppyToClipboard_Click"  />
+        <Label x:Name="lbHTML" Content="Html code for Google Site" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="61,378,0,-102"/>
+    </Grid>
+</UserControl>
